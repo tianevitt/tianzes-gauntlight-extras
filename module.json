@@ -1,0 +1,45 @@
+{
+  "id": "tianzes-gauntlight-extras",
+  "title": "Tianze's Gauntlight Extras",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "pf2e-abomination-vaults",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "tianzes-gauntlight-extras",
+      "label": "Tianze's Gauntlight Extras",
+      "path": "packs/tianzes-gauntlight-extras",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "Tia Nevitt",
+      "url": "https://www.tianevitt.com",
+      "discord": "tianze_scribe"
+    }
+  ]
+}
