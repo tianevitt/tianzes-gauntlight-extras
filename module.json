@@ -42,4 +42,8 @@
       "discord": "tianze_scribe"
     }
   ]
+  "description": "Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's Abomination Vaults Adventure Path.",
+  "url": "https://github.com/tianevitt/tianzes-gauntlight-extras",
+  "manifest": "https://raw.githubusercontent.com/tianevitt/tianzes-gauntlight-extras/master/module.json",
+  "download": "https://github.com/tianevitt/tianzes-gauntlight-extras/archive/refs/heads/main.zip"
 }
