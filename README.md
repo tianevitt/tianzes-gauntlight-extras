@@ -1,3 +1,4 @@
+<p>NOTE! This module is undergoing final revisions and bugfixes and is not quite ready for prime time. It is also not yet available in Foundry.</p>
 <p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em>.</p>
 <p>It includes annotated and soundscaped versions of each scene in the adventure path, up to the seventh level, plus additional side quests, expanded storylines, and NPC timelines.</p>
 <p>The maps for Levels 8 through 10 are planned for a later update.</p>
