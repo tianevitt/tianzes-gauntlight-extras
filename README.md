@@ -19,7 +19,6 @@
     </li>
 </ul>
 <p>The <em>Abomination Vaults Advanture Path</em> Foundry module is required for this mod to function. Many of the scenes, actors, journals and items in this module points directly to assets in the Abomination Vaults module folder.</p>
-<p>The only assets shipped with this mod are my own.</p>
 <h2>Overview</h2>
 <p>This module includes:</p>
 <ul>
