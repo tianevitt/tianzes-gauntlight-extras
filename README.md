@@ -1,3 +1,34 @@
+<h1>Upcoming Compendium Change!</h1>
+<p>Due to the ongoing Remaster project, I found it necessary to convert this entire module from an Adventure document into a series of compendiums.</p>
+<p>This is because in order to get any update to work, the copy of Abomination Vaults needs to be in sync with the version of Pathfinder 2E. If AV has recently updated and is the same version as my current version of the Pathfinder 2E system, then I am able to use the remigration tool to build the adventure document.</p>
+<p>However, if they are not in sync, then I cannot either import the Abomination Vaults from the adventure doc, OR export this module into an adventure doc. There are compile issues either way, either when building the adventure, or importing it into your game.</p>
+<p>This is an issue even with the PF2E Legacy Mod installed.</p>
+<p>This means that even if I package up the adventure while everything is in sync, you might have the same problem unless all your versions are perfectly in sync — with what I packaged.</p>
+<p>A normal compendium package does not need to be built, so I am switching to indivudual compendiums rather than the adventure document.</p>
+<p>There are six compendiums:</p>
+<ul>
+    <li>
+        <p>Gauntlight Extras Actors</p>
+    </li>
+    <li>
+        <p>Gauntlight Extras Items</p>
+    </li>
+    <li>
+        <p>Gauntlight Extras Journals</p>
+    </li>
+    <li>
+        <p>Gauntlight Extras Macros</p>
+    </li>
+    <li>
+        <p>Gauntlight Extras Playlists</p>
+    </li>
+    <li>
+        <p>Gauntlight Extras Scenes</p>
+    </li>
+</ul>
+<p>The old adventure document compendium will be removed.</p>
+<p>I am working to get this update complete by the weekend.</p>
+<hr>
 <p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em>.</p>
 <p>It includes annotated and soundscaped versions of each scene in the adventure path, up to the seventh level, plus additional side quests, expanded storylines, and NPC timelines.</p>
 <p>The maps for Levels 8 through 10 are planned for a later update.</p>
