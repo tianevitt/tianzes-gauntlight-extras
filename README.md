@@ -4,7 +4,7 @@
 <hr></hr>
 <p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em>.</p>
 <p>It includes annotated and soundscaped versions of each scene in the adventure path, now up to the eighth level, plus additional side quests, expanded storylines, and NPC timelines.</p>
-<p>The maps for Levels 8 through 10 are planned for a later update.</p>
+<p>The maps for Levels nine and ten are coming in future updates.</p>
 <p><span style="font-family: Signika, sans-serif">Original maps were created with <a href="https://dungeondraft.net/" title="DungeonDraft" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink)">DungeonDraft</a> using assets from <a href="https://www.forgotten-adventures.net/" title="Forgotten Adventures" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink)">Forgotten Adventures</a>.</span></p>
 <p style="box-sizing: border-box; user-select: text; margin: 0.5em 0px; min-height: unset; color: rgb(25, 24, 19); font-family: Signika, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: start"><span style="font-family: Signika, sans-serif">Vignettes, character art and tokens were created using any of these:</span></p>
 <ul>
