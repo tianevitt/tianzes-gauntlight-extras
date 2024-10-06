@@ -1,3 +1,4 @@
+<h1>STAGING MINOR RELEASE</h1>
 <h2>Version 1.2.1 - Art Update!</h2>
 <p>For this update, I purged the entire module of all HeroForge assets.</p>
 <p>I replaced them with art generated in Bing Image Creator, which I transparentized, refined, tweaked and tokenized using Affinity Designer and Photo.</p>
