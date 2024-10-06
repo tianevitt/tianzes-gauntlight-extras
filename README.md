@@ -1,27 +1,37 @@
-9/15/2024
-<p>Farm Level added!</p>
-<p>Shaitan's Bazaar added!</p>
+<h2>Version 1.2.1 - Art Update!</h2>
+<p>For this update, I purged the entire module of all HeroForge assets.</p>
+<p>I replaced them with art generated in Bing Image Creator, which I transparentized, refined, tweaked and tokenized using Affinity Designer and Photo.</p>
+<p>I also made some journal tweaks while changing out the images.</p>
+<p>Still in progress is the next update for Level 9 - Hunting Grounds, Yldaris, and the Urdefhan Camp.</p>
 <hr></hr>
-<p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em>.</p>
-<p>It includes annotated and soundscaped versions of each scene in the adventure path, now up to the eighth level, plus additional side quests, expanded storylines, and NPC timelines.</p>
-<p>The maps for Levels nine and ten are coming in future updates.</p>
-<p><span style="font-family: Signika, sans-serif">Original maps were created with <a href="https://dungeondraft.net/" title="DungeonDraft" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink)">DungeonDraft</a> using assets from <a href="https://www.forgotten-adventures.net/" title="Forgotten Adventures" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink)">Forgotten Adventures</a>.</span></p>
-<p style="box-sizing: border-box; user-select: text; margin: 0.5em 0px; min-height: unset; color: rgb(25, 24, 19); font-family: Signika, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: start"><span style="font-family: Signika, sans-serif">Vignettes, character art and tokens were created using any of these:</span></p>
+<p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em> (often abbreviated to AV).</p>
+<p>It includes annotated and soundscaped versions of each scene in the adventure path, up to the <strong>eigth</strong> level, plus additional side quests, expanded storylines, and NPC timelines.</p>
+<p>The <em>Abomination Vaults Adventure Path</em> Foundry module is required for this mod to function. Many of the scenes, actors, journals and items in this module points directly to assets in the Abomination Vaults module folder.</p>
+<p>The maps for Levels 9 through 10 are planned for a later update.</p>
+<hr>
+<p>Assets shipped with this module were created using several tools:</p>
 <ul>
     <li>
-        <p style="box-sizing: border-box; user-select: text; margin: 0.5em 0px; min-height: unset; color: rgb(25, 24, 19); font-family: Signika, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: start"><span style="font-family: Signika, sans-serif"><a href="http://localhost:30000/forgotten-adventures.net" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink);transition:text-shadow 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s, border 0.15s ease-in-out 0s, color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, backdrop-filter 0.15s ease-in-out 0s, border-radius 0.15s ease 0s">Forgotten Adventures</a></span></p>
+        <p>Original maps were created with <a href="https://dungeondraft.net/">DungeonDraft</a> using assets from <a href="https://www.forgotten-adventures.net/">Forgotten Adventures</a>.</p>
     </li>
-    <li style="box-sizing:border-box;user-select:text">
-        <p><a href="https://rolladvantage.com/tokenstamp">RollAdvantage's Token Stamp</a></p>
-    </li>
-    <li style="box-sizing:border-box;user-select:text">
-        <p style="box-sizing: border-box; user-select: text; margin: 0.5em 0px; min-height: unset; color: rgb(25, 24, 19); font-family: Signika, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: start"><span style="font-family: Signika, sans-serif"><a href="https://www.bing.com/images/create" style="box-sizing:border-box;user-select:text;cursor:pointer;color:var(--color-text-hyperlink);transition:text-shadow 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s, border 0.15s ease-in-out 0s, color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, backdrop-filter 0.15s ease-in-out 0s, border-radius 0.15s ease 0s">Bing Image Creator</a></span></p>
-    </li>
-    <li style="box-sizing:border-box;user-select:text">
-        <p style="box-sizing: border-box; user-select: text; margin: 0.5em 0px; min-height: unset; color: rgb(25, 24, 19); font-family: Signika, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: start"><span style="font-family: Signika, sans-serif"><a href="https://www.heroforge.com/">HeroForge</a></span></p>
+    <li>
+        <p>Vignettes, character art and tokens were created using any of these:</p>
+        <ul>
+            <li>
+                <p><a href="https://www.bing.com/images/create">Bing Image Creator</a></p>
+            </li>
+            <li>
+                <p><a href="https://affinity.serif.com/en-gb">Affinity Designer and Photo</a></p>
+            </li>
+            <li>
+                <p><a href="https://www.faststone.org/">Faststone Image Viewer</a></p>
+            </li>
+            <li style="box-sizing:border-box;user-select:text">
+                <p><s>HeroForge</s></p>
+            </li>
+        </ul>
     </li>
 </ul>
-<p>The <em>Abomination Vaults Advanture Path</em> Foundry module is required for this mod to function. Many of the scenes, actors, journals and items in this module points directly to assets in the Abomination Vaults module folder.</p>
 <h2>Overview</h2>
 <p>This module includes:</p>
 <ul>
@@ -43,7 +53,7 @@
         </ul>
     </li>
     <li>
-        <p>A new version of every scene that shipped with Abomination Vaults, up to Level 7, with soundscapes, additional lighting, gameplay suggestions, tiles, and map pins to relevant Abomination Vaults vignettes. These scenes use the remade maps.</p>
+        <p>A new version of every scene that shipped with Abomination Vaults, up to Level 8, with soundscapes, additional lighting, gameplay suggestions, tiles, and map pins to relevant Abomination Vaults vignettes. These scenes point to the remade maps.</p>
     </li>
     <li>
         <p>A journal that organizes every vignette that shipped with Abomination Vaults.</p>
@@ -52,7 +62,7 @@
         <p>Journals detailing all changes to maps, including a comprehensive list of changes.</p>
     </li>
     <li>
-        <p>New actors for Otari, plus actors for each Otari citizen portrait (and token art) that shipped with Abomination Vaults.</p>
+        <p>New actors for Otari, plus actors for each Otari citizen portrait (and associated token art) that shipped with Abomination Vaults.</p>
     </li>
     <li>
         <p>New actors for the Gauntlight dungeons, including an alternate level boss, her allies, a Gamesmaster for the Arena, loot boxes, and a victim to rescue.</p>
@@ -70,7 +80,7 @@
         <p>A folder of effects for the various longterm afflictions the heroes may contract while on the adventure.</p>
     </li>
     <li>
-        <p>Reanimations of once-killed monsters and bosses, handy for villains who like to raise dead.</p>
+        <p>Reanimations of select once-killed monsters and bosses, handy for villains who like to raise dead.</p>
     </li>
 </ul>
 <p>Everything is organized in an Adventure compendium for easy installation.</p>
