@@ -1,19 +1,17 @@
 {
   "id": "tianzes-gauntlight-extras",
-  "title": "Tianze's Gauntlight Extras",
-  "version": "1.0.0",
+  "title": "Tianze's Gauntlight Extras PF2E",
+  "version": "1.2.1",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "relationships": {
     "systems": [
       {
         "id": "pf2e",
         "type": "system",
-        "compatibility": {
-          "minimum": "5.15.0"
-        }
+        "compatibility": {}
       }
     ],
     "requires": [
@@ -41,11 +39,12 @@
     {
       "name": "Tia Nevitt",
       "url": "https://www.tianevitt.com",
-      "discord": "tianze_scribe"
+      "discord": "tianze_scribe",
+      "flags": {}
     }
-  ]
-  "description": "Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's Abomination Vaults Adventure Path.",
+  ],
+  "description": "Tianze's Gauntlight Extras is a companion module for Paizo's Abmination Vaults. It includes soundscaped scenes, three original maps, new actors, side quests, and more.",
   "url": "https://github.com/tianevitt/tianzes-gauntlight-extras",
-  "manifest": "https://raw.githubusercontent.com/tianevitt/tianzes-gauntlight-extras/master/module.json",
-  "download": "https://github.com/tianevitt/tianzes-gauntlight-extras/archive/refs/heads/main.zip"
+  "manifest": "https://github.com/tianevitt/tianzes-gauntlight-extras/releases/latest/download/module.json",
+  "download": "https://github.com/tianevitt/tianzes-gauntlight-extras/releases/download/1.2.1/tianzes-gauntlight-extras.zip"
 }
