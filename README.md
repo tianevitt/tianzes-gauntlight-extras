@@ -1,4 +1,4 @@
-<h1>STAGING MINOR RELEASE</h1>
+<h1>STAGING LEVEL 9 RELEASE!</h1>
 <h2>Version 1.2.1 - Art Update!</h2>
 <p>For this update, I purged the entire module of all HeroForge assets.</p>
 <p>I replaced them with art generated in Bing Image Creator, which I transparentized, refined, tweaked and tokenized using Affinity Designer and Photo.</p>
@@ -85,7 +85,9 @@
     </li>
 </ul>
 <p>Everything is organized in an Adventure compendium for easy installation.</p>
-<h2></h2>Sample Map - The Rowdy Rockfish</h2>
+<h2>Sample Map - The Rowdy Rockfish</h2>
 <img src="Assets/Maps/Rowdy-Rockfish-Inn.jpg">
+<h2>Original and Reimagined Characters</h2>
+<img src="Assets/Gauntlight-Extras-NPCs.jpg">
 
 
