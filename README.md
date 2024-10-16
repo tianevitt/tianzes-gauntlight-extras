@@ -1,9 +1,8 @@
-<h1>STAGING LEVEL 9 RELEASE!</h1>
-<h2>Version 1.2.1 - Art Update!</h2>
-<p>For this update, I purged the entire module of all HeroForge assets.</p>
-<p>I replaced them with art generated in Bing Image Creator, which I transparentized, refined, tweaked and tokenized using Affinity Designer and Photo.</p>
-<p>I also made some journal tweaks while changing out the images.</p>
-<p>Still in progress is the next update for Level 9 - Hunting Grounds, Yldaris, and the Urdefhan Camp.</p>
+<H2>Version 1.3.0 Hunting Grounds Added!</H2>
+<p>For this update, I am adding all three scenes for the Hunting grounds.</p>
+<p>It features a neutral horned dragon to replace the old OGL dragon, his side quests, a general store in Yldaris, environmental enhancements for Yldaris, and a conclusion to the caligni storyline.</p>
+<p>It also makes a few light tweaks to the Farm level.</p>
+<p>I also added the Wall Height mod, and several others, to my list of recommendations.</p>
 <hr></hr>
 <p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em> (often abbreviated to AV).</p>
 <p>It includes annotated and soundscaped versions of each scene in the adventure path, up to the <strong>eigth</strong> level, plus additional side quests, expanded storylines, and NPC timelines.</p>
