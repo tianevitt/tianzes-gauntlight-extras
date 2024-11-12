@@ -1,3 +1,5 @@
+<H2>Version 1.3.1 Character Art</H2>
+Small release to add token images that were not included in the original module: Shaitan and the two hags on the 7th level.
 <H2>Version 1.3.0 Hunting Grounds Added!</H2>
 <p>For this update, I am adding all three scenes for the Hunting grounds.</p>
 <p>It features a neutral horned dragon to replace the old OGL dragon, his side quests, a general store in Yldaris, environmental enhancements for Yldaris, and a conclusion to the caligni storyline.</p>
