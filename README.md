@@ -1,3 +1,5 @@
+<h1>STAGING RELEASE</h1>
+Will include an assortment of fixes and tweaks.
 <H2>Version 1.3.1 Character Art</H2>
 Small release to add token images that were not included in the original module: Shaitan and the two hags on the 7th level.
 <H2>Version 1.3.0 Hunting Grounds Added!</H2>
