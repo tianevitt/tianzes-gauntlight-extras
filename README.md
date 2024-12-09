@@ -1,4 +1,4 @@
-</h2>Version 1.3.2
+</h2>Version 1.3.2</h2>h2>
 Added missing images and thumbnails, and fixed multiple small issues. See the release notes for details.
 Will include an assortment of fixes and tweaks.
 <H2>Version 1.3.0 Hunting Grounds Added!</H2>
