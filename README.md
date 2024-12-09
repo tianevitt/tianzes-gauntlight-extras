@@ -1,6 +1,6 @@
-</h2>Version 1.3.2</h2>h2>
+<h2>Version 1.3.2</h2>
 Added missing images and thumbnails, and fixed multiple small issues. See the release notes for details.
-Will include an assortment of fixes and tweaks.
+
 <H2>Version 1.3.0 Hunting Grounds Added!</H2>
 <p>For this update, I am adding all three scenes for the Hunting grounds.</p>
 <p>It features a neutral horned dragon to replace the old OGL dragon, his side quests, a general store in Yldaris, environmental enhancements for Yldaris, and a conclusion to the caligni storyline.</p>
