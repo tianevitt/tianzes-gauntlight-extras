@@ -1,3 +1,6 @@
+<h2>Feb. 2, 2024 - Update in Process</h2>
+I was planning to release my latest update this weekend, which is for the Temple level and includes lots of tweaks and fixes, but after updating my PF2E system, there are migration issues with multiple items and actors. So I need to wait until the next update, where it will hopefully fix everything.
+<p>This sometimes happens when a PF2E system update comes close on the heels of an Abomination Vaults update, which just happened.</p>
 <h2>Version 1.3.2</h2>
 Added missing images and thumbnails, and fixed multiple small issues. See the release notes for details.
 
