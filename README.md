@@ -2,12 +2,6 @@
 <p>This release finally includes the Temple level.</p>
 <p>With this release, this module is mostly complete. I say "mostly" because these projects are never truly done. I do expect to continue keeping it up to date, and probably adding or tweaking the content when I do so. My husband would like me to run some new PF2E players through Abomination Vaults, and I would doubtless discover things to play with when I do so. I already have at least one map to include such a release, and version 13 is coming!</p>
 <p>Enjoy!</p>
-
-<H2>Version 1.3.0 Hunting Grounds Added!</H2>
-<p>For this update, I am adding all three scenes for the Hunting grounds.</p>
-<p>It features a neutral horned dragon to replace the old OGL dragon, his side quests, a general store in Yldaris, environmental enhancements for Yldaris, and a conclusion to the caligni storyline.</p>
-<p>It also makes a few light tweaks to the Farm level.</p>
-<p>I also added the Wall Height mod, and several others, to my list of recommendations.</p>
 <hr></hr>
 <p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em> (often abbreviated to AV).</p>
 <p>It includes annotated and soundscaped versions of each scene in the adventure path, up to the <strong>eigth</strong> level, plus additional side quests, expanded storylines, and NPC timelines.</p>
