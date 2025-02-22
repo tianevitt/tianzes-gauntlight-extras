@@ -1,4 +1,4 @@
-<h2>Feb. 22, 2024 - Update in Process</h2>
+<h2>Feb. 22, 2024 -Temple Level Complete!</h2>
 <p>This release finally includes the Temple level.</p>
 <p>With this release, this module is mostly complete. I say "mostly" because these projects are never truly done. I do expect to continue keeping it up to date, and probably adding or tweaking the content when I do so. My husband would like me to run some new PF2E players through Abomination Vaults, and I would doubtless discover things to play with when I do so. I already have at least one map to include such a release, and version 13 is coming!</p>
 <p>Enjoy!</p>
