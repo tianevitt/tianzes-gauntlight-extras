@@ -1,8 +1,7 @@
-<h2>Feb. 2, 2024 - Update in Process</h2>
-I was planning to release my latest update this weekend, which is for the Temple level and includes lots of tweaks and fixes, but after updating my PF2E system, there are migration issues with multiple items and actors. So I need to wait until the next update, where it will hopefully fix everything.
-<p>This sometimes happens when a PF2E system update comes close on the heels of an Abomination Vaults update, which just happened.</p>
-<h2>Version 1.3.2</h2>
-Added missing images and thumbnails, and fixed multiple small issues. See the release notes for details.
+<h2>Feb. 22, 2024 - Update in Process</h2>
+<p>This release finally includes the Temple level.</p>
+<p>With this release, this module is mostly complete. I say "mostly" because these projects are never truly done. I do expect to continue keeping it up to date, and probably adding or tweaking the content when I do so. My husband would like me to run some new PF2E players through Abomination Vaults, and I would doubtless discover things to play with when I do so. I already have at least one map to include such a release, and version 13 is coming!</p>
+<p>Enjoy!</p>
 
 <H2>Version 1.3.0 Hunting Grounds Added!</H2>
 <p>For this update, I am adding all three scenes for the Hunting grounds.</p>
