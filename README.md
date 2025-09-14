@@ -1,12 +1,5 @@
-<h2>Feb. 22, 2024 -Temple Level Complete!</h2>
-<p>This release finally includes the Temple level.</p>
-<p>With this release, this module is mostly complete. I say "mostly" because these projects are never truly done. I do expect to continue keeping it up to date, and probably adding or tweaking the content when I do so. My husband would like me to run some new PF2E players through Abomination Vaults, and I would doubtless discover things to play with when I do so. I already have at least one map to include such a release, and version 13 is coming!</p>
-<p>Enjoy!</p>
-<hr></hr>
-<p>Tianze's Gauntlight Extras is a collection of of content designed to enhance the gameplay of Paizo's <em>Abomination Vaults Adventure Path</em> (often abbreviated to AV).</p>
-<p>It includes annotated and soundscaped versions of each scene in the adventure path, up to the <strong>eigth</strong> level, plus additional side quests, expanded storylines, and NPC timelines.</p>
-<p>The <em>Abomination Vaults Adventure Path</em> Foundry module is required for this mod to function. Many of the scenes, actors, journals and items in this module points directly to assets in the Abomination Vaults module folder.</p>
-<p>The maps for Levels 9 through 10 are planned for a later update.</p>
+<h2>September 14, 2025 - 2.0.0 update pending!</h2>
+
 <hr>
 <p>Assets shipped with this module were created using several tools:</p>
 <ul>
