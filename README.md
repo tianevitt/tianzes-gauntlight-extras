@@ -1,4 +1,8 @@
-<h2>September 14, 2025 - 2.0.0 update pending!</h2>
+<h2>September 20, 2025 - V13 and Scene Regions</h2>
+Finally updated to V13, plus I took advantage of the new scene regions, and the light effect that beats to the sound of the ambient lights. 
+
+If the scene regions appear too dark on your map, use GM Vision. See the journals for more info.
+Enjoy!
 
 <hr>
 <p>Assets shipped with this module were created using several tools:</p>
