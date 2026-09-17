@@ -1,5 +1,5 @@
 <h1>Wednesday, August 19, 2026</h1>
-<p>I have made the difficult decision to stop supporting this module, at leat for now.</p>
+<p>I have made the difficult decision to stop supporting this module, at least for now.</p>
 <p>My reason for creating this module was to first, learn as much as I can about Foundry modules and second, to flesh out a setting that I loved. Since it is a free module, I used AI art. I am a writer first, and an artist second. I never use AI to write any of my modules. But for modules like this one, the availability of AI art greatly enhanced what I was able to do. </p>
 <p>My use of AI art means this module no longer complies with <a href="https://foundryvtt.com/article/ai-policy/"> Foundry's AI Art Policy</a>. It is not clear whether or not the policy applies to free modules like this one, but I decided to concentrate my efforts on my upcoming modules.</p>
 <p>At some point in September, I expect Foundry to remove this module from their marketplace. By leaving this module as it is, I will not be stripping any art from your installations, and it will be available until you decide to remove it.</p>
